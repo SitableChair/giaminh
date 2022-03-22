@@ -16,16 +16,18 @@ body {
 }
 h1 {
     font-size: 100px;
-    background: -webkit-linear-gradient(45deg, #3f88cd, #89097c);
+    color: #fff;
+/*     background: -webkit-linear-gradient(45deg, #3f88cd, #89097c);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; color: #fff;
+    -webkit-text-fill-color: transparent; color: #fff; */
 }
 p {
     line-height: 40px;
     text-align: center;
     font-size: 24px;
-    background: -webkit-linear-gradient(45deg, #e7622e, #e473d8);
+/*     background: -webkit-linear-gradient(45deg, #e7622e, #e473d8);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; color: #fff;
-    margin-top: 30px;
+    -webkit-text-fill-color: transparent; color: #fff; */
+    color: #fff;
+    margin-top: 30px; 
 }
